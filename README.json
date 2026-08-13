@@ -1,0 +1,387 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mink - Google Chrome Extension (src",
+          "description": ", Web Store)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-27T20:18:28Z",
+            "owner": "machawk1",
+            "repo": "Mink",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Memento Time Travel - Google Chrome extension and Mozilla Firefox Add-On (src",
+          "description": ", Web Store, Add-On Store)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-03-15T06:54:53Z",
+            "owner": "mementoweb",
+            "repo": "memento_extensions",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Web Browser Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Memento-Browser - View web archives in the time dimension on Android (src",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2014-08-06T17:35:23Z",
+            "owner": "machawk1",
+            "repo": "mementobrowser-android",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MementoBrowser-ios - View web archives in the time dimension on iOS (src",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2014-08-06T17:39:29Z",
+            "owner": "machawk1",
+            "repo": "mementobrowser-ios",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mobile Mink - View and create archived versions of mobile and desktop pages on Android (src",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-09-14T14:40:31Z",
+            "owner": "oduwsdl",
+            "repo": "MobileMink",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Mobile Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "py-memento-client (src",
+          "description": ") - Python client to interface with Memento entities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-03-05T18:41:09Z",
+            "owner": "mementoweb",
+            "repo": "py-memento-client",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "archive.is - (src",
+          "description": ", npm) - Memento-based API for archive.is in JavaScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-28T16:14:44Z",
+            "owner": "qvint",
+            "repo": "archive.is",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "memento-cli - (src",
+          "description": ") - A command line tool interacting with Memento (RFC 7089) supporting web archives, such as the Internet Archive's Wayback Machine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-04T06:13:50Z",
+            "owner": "edsu",
+            "repo": "memento-cli",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "memento-client (src",
+          "description": ", npm) - JavaScript client to interface with Memento services",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-31T18:37:14Z",
+            "owner": "jarofghosts",
+            "repo": "memento-client",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wasteback Machine - (src",
+          "description": ", npm) - JavaScript library for analyzing archived web pages, measuring their size and composition to support retrospective, quantitative web research",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-24T17:05:51Z",
+            "owner": "overbrowsing",
+            "repo": "wasteback-machine",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcurl (src",
+          "description": ") - Command Line Memento Client (perl)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2013-05-08T23:37:18Z",
+            "owner": "aalsum",
+            "repo": "mcurl",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Command-line Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MemGator (src",
+          "description": ") - Memento Aggregator written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-09T18:56:58Z",
+            "owner": "oduwsdl",
+            "repo": "MemGator",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TimeGate (src",
+          "description": ") - Python and uWSGI script to intercept requests for resources to make them Memento-compatible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-04T10:22:18Z",
+            "owner": "mementoweb",
+            "repo": "timegate",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wordpress-memento-plugin - (src",
+          "description": ") - Add Memento support to WordPress sites.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Perl",
+            "last_commit": "2017-08-04T21:16:28Z",
+            "owner": "palewire",
+            "repo": "wordpress-memento-plugin",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-memento-framework (src",
+          "description": ") - Add Memento support to Django applications.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-10-14T03:51:54Z",
+            "owner": "palewire",
+            "repo": "django-memento-framework",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TimeStitch Memento Aggregator (src",
+          "description": ") - Memento Aggregator written in Go from Los Alamos National Laboratory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-12T16:23:20Z",
+            "owner": "lanl",
+            "repo": "TimeStitch-Memento-Aggregator",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "invenio-memento - (src",
+          "description": ") - Add Memento support to Invenio sites.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-08-01T15:52:55Z",
+            "owner": "inveniosoftware-attic",
+            "repo": "invenio-memento",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Linked Data",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Linked Data Fragments Server",
+              "description": "Server-side component offering Triple Pattern Fragments and different versions of an evolving dataset using Memento.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T23:51:42Z",
+                "owner": "LinkedDataFragments",
+                "repo": "Server.js",
+                "stars": 181
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Server-side Enablers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pywb (src",
+          "description": ") - Python-based replay engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-10T22:52:02Z",
+            "owner": "webrecorder",
+            "repo": "pywb",
+            "stars": 1686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InterPlanetary Wayback (ipwb) (src",
+          "description": ") - Integration of WARCs with IPFS, supports Memento in bundled replay system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T13:33:40Z",
+            "owner": "oduwsdl",
+            "repo": "ipwb",
+            "stars": 655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenWayback (src",
+          "description": ") - De facto web archive replay engine with the ability to provide Memento headers to archived resources. Written in Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-01-03T23:55:02Z",
+            "owner": "iipc",
+            "repo": "openwayback",
+            "stars": 525
+          }
+        }
+      ],
+      "title": "Web Archive Replay"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Comunica (src",
+          "description": ") - A knowledge graph querying framework for JavaScript with Memento support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T14:32:22Z",
+            "owner": "comunica",
+            "repo": "comunica",
+            "stars": 577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Memento Validator (src",
+          "description": ") - Memento validator toolkit lets you validate your Memento implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-28T20:13:24Z",
+            "owner": "lanl",
+            "repo": "memento-validator",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Additional Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Literature"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:23:50.762Z",
+    "original_repository": "machawk1/awesome-memento",
+    "original_repository_sha": "f73c1157365fa7c1f0092bb3a20372c236ae7582",
+    "enhanced_repository": "enhansome/enhansome-memento",
+    "enhanced_repository_description": null,
+    "title": "Awesome Memento with stars"
+  }
+}
