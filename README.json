@@ -277,7 +277,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-11T23:51:42Z",
+                "last_commit": "2026-08-14T19:34:03Z",
                 "owner": "LinkedDataFragments",
                 "repo": "Server.js",
                 "stars": 181
@@ -302,7 +302,7 @@
             "last_commit": "2026-04-10T22:52:02Z",
             "owner": "webrecorder",
             "repo": "pywb",
-            "stars": 1686
+            "stars": 1687
           }
         },
         {
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:21:17.091Z",
+    "last_updated": "2026-08-15T10:50:55.461Z",
     "original_repository": "machawk1/awesome-memento",
     "original_repository_sha": "f73c1157365fa7c1f0092bb3a20372c236ae7582",
     "enhanced_repository": "enhansome/enhansome-memento",
