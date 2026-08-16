@@ -347,7 +347,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T16:33:55Z",
+            "last_commit": "2026-08-15T18:14:15Z",
             "owner": "comunica",
             "repo": "comunica",
             "stars": 577
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T10:50:55.461Z",
+    "last_updated": "2026-08-16T10:51:30.993Z",
     "original_repository": "machawk1/awesome-memento",
     "original_repository_sha": "f73c1157365fa7c1f0092bb3a20372c236ae7582",
     "enhanced_repository": "enhansome/enhansome-memento",
