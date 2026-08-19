@@ -322,7 +322,7 @@
                 "last_commit": "2026-04-10T22:52:02Z",
                 "owner": "webrecorder",
                 "repo": "pywb",
-                "stars": 1689
+                "stars": 1690
               }
             },
             {
@@ -402,8 +402,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:57:02.249Z",
+    "last_updated": "2026-08-19T12:39:52.954Z",
     "original_repository": "machawk1/awesome-memento",
+    "original_repository_id": 68344736,
     "original_repository_sha": "f73c1157365fa7c1f0092bb3a20372c236ae7582",
     "enhanced_repository": "enhansome/enhansome-memento",
     "enhanced_repository_description": null,
