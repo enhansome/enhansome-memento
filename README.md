@@ -49,7 +49,7 @@ A list of things related to software, literature, and other content for Memento 
 * TimeStitch Memento Aggregator ([src](https://github.com/lanl/TimeStitch-Memento-Aggregator) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2026-01-12) - Memento Aggregator written in Go from Los Alamos National Laboratory.
 * invenio-memento - ([src](https://github.com/inveniosoftware/invenio-memento) ⚠️ Archived) - Add Memento support to [Invenio](http://invenio-software.org/) sites.
 * Linked Data
-  * [Linked Data Fragments Server](https://github.com/LinkedDataFragments/Server.js/) ⭐ 181 | 🐛 55 | 🌐 JavaScript | 📅 2026-08-19 - Server-side component offering [Triple Pattern Fragments](http://www.hydra-cg.com/spec/latest/triple-pattern-fragments/) and different versions of an evolving dataset using Memento.
+  * [Linked Data Fragments Server](https://github.com/LinkedDataFragments/Server.js/) ⭐ 181 | 🐛 56 | 🌐 JavaScript | 📅 2026-08-20 - Server-side component offering [Triple Pattern Fragments](http://www.hydra-cg.com/spec/latest/triple-pattern-fragments/) and different versions of an evolving dataset using Memento.
   * [Apache Marmotta](http://marmotta.apache.org/) - An open implementation of the W3C Linked Data Platform specification, which supports versioning and access to versions compliant with the Memento protocol.
 * MediaWiki Extensions - Add Memento support to [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) instances:
   * [Extension: Memento](https://www.mediawiki.org/wiki/Extension:Memento) - Provides complete Memento support.
@@ -106,4 +106,4 @@ A list of things related to software, literature, and other content for Memento 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
