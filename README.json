@@ -295,7 +295,7 @@
                     "archived": false,
                     "id": 16891600,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-20T00:01:43Z",
+                    "last_commit": "2026-08-20T13:13:49Z",
                     "owner": "LinkedDataFragments",
                     "repo": "Server.js",
                     "stars": 181
@@ -371,7 +371,7 @@
                 "archived": false,
                 "id": 107345960,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T12:47:53Z",
+                "last_commit": "2026-08-21T01:58:48Z",
                 "owner": "comunica",
                 "repo": "comunica",
                 "stars": 577
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:59:54.301Z",
+    "last_updated": "2026-08-21T10:59:57.551Z",
     "original_repository": "machawk1/awesome-memento",
     "original_repository_id": 68344736,
     "original_repository_sha": "f73c1157365fa7c1f0092bb3a20372c236ae7582",
