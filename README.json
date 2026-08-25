@@ -322,7 +322,7 @@
                 "last_commit": "2026-04-10T22:52:02Z",
                 "owner": "webrecorder",
                 "repo": "pywb",
-                "stars": 1692
+                "stars": 1694
               }
             },
             {
@@ -371,7 +371,7 @@
                 "archived": false,
                 "id": 107345960,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T06:02:25Z",
+                "last_commit": "2026-08-25T01:15:52Z",
                 "owner": "comunica",
                 "repo": "comunica",
                 "stars": 578
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:37:43.258Z",
+    "last_updated": "2026-08-25T06:32:14.564Z",
     "original_repository": "machawk1/awesome-memento",
     "original_repository_id": 68344736,
     "original_repository_sha": "f73c1157365fa7c1f0092bb3a20372c236ae7582",
