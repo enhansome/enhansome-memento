@@ -295,7 +295,7 @@
                     "archived": false,
                     "id": 16891600,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-20T13:13:49Z",
+                    "last_commit": "2026-08-25T18:01:28Z",
                     "owner": "LinkedDataFragments",
                     "repo": "Server.js",
                     "stars": 181
@@ -319,10 +319,10 @@
                 "archived": false,
                 "id": 15037172,
                 "language": "JavaScript",
-                "last_commit": "2026-04-10T22:52:02Z",
+                "last_commit": "2026-08-26T07:49:35Z",
                 "owner": "webrecorder",
                 "repo": "pywb",
-                "stars": 1694
+                "stars": 1695
               }
             },
             {
@@ -352,7 +352,7 @@
                 "last_commit": "2024-01-03T23:55:02Z",
                 "owner": "iipc",
                 "repo": "openwayback",
-                "stars": 525
+                "stars": 526
               }
             }
           ],
@@ -371,7 +371,7 @@
                 "archived": false,
                 "id": 107345960,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T01:15:52Z",
+                "last_commit": "2026-08-25T13:57:29Z",
                 "owner": "comunica",
                 "repo": "comunica",
                 "stars": 578
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:02:01.069Z",
+    "last_updated": "2026-08-26T11:04:00.076Z",
     "original_repository": "machawk1/awesome-memento",
     "original_repository_id": 68344736,
     "original_repository_sha": "f73c1157365fa7c1f0092bb3a20372c236ae7582",
