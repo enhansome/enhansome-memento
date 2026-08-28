@@ -49,7 +49,7 @@ A list of things related to software, literature, and other content for Memento 
 * TimeStitch Memento Aggregator ([src](https://github.com/lanl/TimeStitch-Memento-Aggregator) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2026-01-12) - Memento Aggregator written in Go from Los Alamos National Laboratory.
 * invenio-memento - ([src](https://github.com/inveniosoftware/invenio-memento) ⚠️ Archived) - Add Memento support to [Invenio](http://invenio-software.org/) sites.
 * Linked Data
-  * [Linked Data Fragments Server](https://github.com/LinkedDataFragments/Server.js/) ⭐ 181 | 🐛 60 | 🌐 JavaScript | 📅 2026-08-26 - Server-side component offering [Triple Pattern Fragments](http://www.hydra-cg.com/spec/latest/triple-pattern-fragments/) and different versions of an evolving dataset using Memento.
+  * [Linked Data Fragments Server](https://github.com/LinkedDataFragments/Server.js/) ⭐ 181 | 🐛 56 | 🌐 JavaScript | 📅 2026-08-28 - Server-side component offering [Triple Pattern Fragments](http://www.hydra-cg.com/spec/latest/triple-pattern-fragments/) and different versions of an evolving dataset using Memento.
   * [Apache Marmotta](http://marmotta.apache.org/) - An open implementation of the W3C Linked Data Platform specification, which supports versioning and access to versions compliant with the Memento protocol.
 * MediaWiki Extensions - Add Memento support to [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) instances:
   * [Extension: Memento](https://www.mediawiki.org/wiki/Extension:Memento) - Provides complete Memento support.
@@ -59,13 +59,13 @@ A list of things related to software, literature, and other content for Memento 
 
 ### Web Archive Replay
 
-* pywb ([src](https://github.com/webrecorder/pywb) ⭐ 1,696 | 🐛 184 | 🌐 JavaScript | 📅 2026-08-26) - Python-based replay engine.
+* pywb ([src](https://github.com/webrecorder/pywb) ⭐ 1,697 | 🐛 184 | 🌐 JavaScript | 📅 2026-08-26) - Python-based replay engine.
 * InterPlanetary Wayback (ipwb) ([src](https://github.com/oduwsdl/ipwb) ⭐ 655 | 🐛 160 | 🌐 Python | 📅 2026-07-24) - Integration of WARCs with IPFS, supports Memento in bundled replay system.
 * OpenWayback ([src](https://github.com/iipc/openwayback) ⭐ 526 | 🐛 105 | 🌐 Java | 📅 2024-01-03) - De facto web archive replay engine with the ability to provide Memento headers to archived resources. Written in Java.
 
 ### Additional Tools
 
-* Comunica ([src](https://github.com/comunica/comunica) ⭐ 578 | 🐛 81 | 🌐 TypeScript | 📅 2026-08-27) - A knowledge graph querying framework for JavaScript with [Memento support](https://github.com/comunica/comunica/pull/195) ⭐ 578 | 🐛 81 | 🌐 TypeScript | 📅 2026-08-27.
+* Comunica ([src](https://github.com/comunica/comunica) ⭐ 578 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-28) - A knowledge graph querying framework for JavaScript with [Memento support](https://github.com/comunica/comunica/pull/195) ⭐ 578 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-28.
 * Memento Validator ([src](https://github.com/lanl/memento-validator) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2021-10-28) - Memento validator toolkit lets you validate your Memento implementation
 
 ## Literature
@@ -106,4 +106,4 @@ A list of things related to software, literature, and other content for Memento 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

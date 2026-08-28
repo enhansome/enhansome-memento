@@ -18,7 +18,8 @@
                 "owner": "machawk1",
                 "repo": "Mink",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "mementoweb",
                 "repo": "memento_extensions",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "machawk1",
                 "repo": "mementobrowser-android",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "machawk1",
                 "repo": "mementobrowser-ios",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "oduwsdl",
                 "repo": "MobileMink",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             }
           ],
           "description": null,
@@ -107,7 +112,8 @@
                 "owner": "mementoweb",
                 "repo": "py-memento-client",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             },
             {
               "node_type": "item",
@@ -122,7 +128,8 @@
                 "owner": "qvint",
                 "repo": "archive.is",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             },
             {
               "node_type": "item",
@@ -137,7 +144,8 @@
                 "owner": "edsu",
                 "repo": "memento-cli",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "jarofghosts",
                 "repo": "memento-client",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "overbrowsing",
                 "repo": "wasteback-machine",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "aalsum",
                 "repo": "mcurl",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             }
           ],
           "description": null,
@@ -204,7 +215,8 @@
                 "owner": "oduwsdl",
                 "repo": "MemGator",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             },
             {
               "node_type": "item",
@@ -219,7 +231,8 @@
                 "owner": "mementoweb",
                 "repo": "timegate",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "palewire",
                 "repo": "wordpress-memento-plugin",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "palewire",
                 "repo": "django-memento-framework",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "lanl",
                 "repo": "TimeStitch-Memento-Aggregator",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             },
             {
               "node_type": "item",
@@ -279,7 +295,8 @@
                 "owner": "inveniosoftware-attic",
                 "repo": "invenio-memento",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             },
             {
               "node_type": "group",
@@ -295,11 +312,12 @@
                     "archived": false,
                     "id": 16891600,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-26T13:09:38Z",
+                    "last_commit": "2026-08-28T15:04:15Z",
                     "owner": "LinkedDataFragments",
                     "repo": "Server.js",
                     "stars": 181
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:13:21.413Z"
                 }
               ]
             }
@@ -322,8 +340,9 @@
                 "last_commit": "2026-08-26T07:49:35Z",
                 "owner": "webrecorder",
                 "repo": "pywb",
-                "stars": 1696
-              }
+                "stars": 1697
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             },
             {
               "node_type": "item",
@@ -338,7 +357,8 @@
                 "owner": "oduwsdl",
                 "repo": "ipwb",
                 "stars": 655
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             },
             {
               "node_type": "item",
@@ -353,7 +373,8 @@
                 "owner": "iipc",
                 "repo": "openwayback",
                 "stars": 526
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             }
           ],
           "description": null,
@@ -371,11 +392,12 @@
                 "archived": false,
                 "id": 107345960,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T15:59:29Z",
+                "last_commit": "2026-08-28T18:27:02Z",
                 "owner": "comunica",
                 "repo": "comunica",
                 "stars": 578
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             },
             {
               "node_type": "item",
@@ -390,7 +412,8 @@
                 "owner": "lanl",
                 "repo": "memento-validator",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:13:21.413Z"
             }
           ],
           "description": null,
@@ -402,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:42:32.141Z",
+    "last_updated": "2026-08-28T21:13:21.413Z",
     "original_repository_info": {
       "archived": false,
       "id": 68344736,
