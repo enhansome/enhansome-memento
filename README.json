@@ -551,7 +551,7 @@
                 "id": 107345960,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T18:27:02Z",
+                "last_commit": "2026-08-29T09:14:03Z",
                 "open_issues": 79,
                 "owner": "comunica",
                 "repo": "comunica",
@@ -603,7 +603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:57:09.926Z",
+    "last_updated": "2026-08-29T15:16:12.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of things related to software, literature, and other content for 🕣 Memento",
