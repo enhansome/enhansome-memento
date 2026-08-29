@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chrome extension that uses Memento to indicate that a page a user is viewing on the live web has an archived copy and to give the user access to the copy",
+                "homepage": null,
                 "id": 16007929,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-08-27T20:18:28Z",
+                "open_issues": 95,
                 "owner": "machawk1",
                 "repo": "Mink",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "chrome",
+                  "extension",
+                  "internet-archive",
+                  "memento",
+                  "memento-rfc"
+                ]
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             },
@@ -28,12 +39,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Memento Extension for Chrome and Firefox Browsers",
+                "homepage": null,
                 "id": 12143240,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2021-03-15T06:54:53Z",
+                "open_issues": 2,
                 "owner": "mementoweb",
                 "repo": "memento_extensions",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             }
@@ -51,12 +67,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Memento Browser for Android, pulled from https://code.google.com/p/memento-browser/",
+                "homepage": null,
                 "id": 22691833,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2014-08-06T17:35:23Z",
+                "open_issues": 0,
                 "owner": "machawk1",
                 "repo": "mementobrowser-android",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             },
@@ -67,12 +88,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Memento Browser for iOS, pulled from https://code.google.com/p/memento-browser/",
+                "homepage": null,
                 "id": 22691928,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2014-08-06T17:39:29Z",
+                "open_issues": 0,
                 "owner": "machawk1",
                 "repo": "mementobrowser-ios",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             },
@@ -83,12 +109,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Android Application for the viewing and creating of archived verisons of mobile and desktop pages using the Memento Framework.",
+                "homepage": null,
                 "id": 71530862,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2023-09-14T14:40:31Z",
+                "open_issues": 16,
                 "owner": "oduwsdl",
                 "repo": "MobileMink",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "android",
+                  "memento",
+                  "memento-rfc"
+                ]
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             }
@@ -106,12 +141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Memento Client Library in Python",
+                "homepage": null,
                 "id": 40508353,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-03-05T18:41:09Z",
+                "open_issues": 3,
                 "owner": "mementoweb",
                 "repo": "py-memento-client",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             },
@@ -122,12 +162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ABANDONED] Unofficial Node.js API for archive.is",
+                "homepage": null,
                 "id": 50511202,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2016-01-28T16:14:44Z",
+                "open_issues": 5,
                 "owner": "qvint",
                 "repo": "archive.is",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             },
@@ -138,12 +183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command line utility for listing and searching snapshots in web archives",
+                "homepage": null,
                 "id": 689452340,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-04T06:13:50Z",
+                "open_issues": 0,
                 "owner": "edsu",
                 "repo": "memento-cli",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             },
@@ -154,12 +204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "client for wayback machine data",
+                "homepage": null,
                 "id": 20987170,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-07-31T18:37:14Z",
+                "open_issues": 1,
                 "owner": "jarofghosts",
                 "repo": "memento-client",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             },
@@ -170,12 +225,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript library for analysing archived web pages",
+                "homepage": null,
                 "id": 1049160904,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-24T17:05:51Z",
+                "open_issues": 1,
                 "owner": "overbrowsing",
                 "repo": "wasteback-machine",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "internet-archive",
+                  "memento",
+                  "wayback-machine",
+                  "web-archiving",
+                  "website-analysis"
+                ]
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             },
@@ -186,12 +252,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 9947274,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2013-05-08T23:37:18Z",
+                "open_issues": 0,
                 "owner": "aalsum",
                 "repo": "mcurl",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             }
@@ -209,12 +280,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Memento Aggregator CLI and Server in Go",
+                "homepage": "https://memgator.cs.odu.edu/api.html",
                 "id": 42083286,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-04-09T18:56:58Z",
+                "open_issues": 49,
                 "owner": "oduwsdl",
                 "repo": "MemGator",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "memento",
+                  "memento-rfc",
+                  "timemap",
+                  "web-archiving"
+                ]
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             },
@@ -225,12 +306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Memento TimeGate",
+                "homepage": null,
                 "id": 24238812,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-05-04T10:22:18Z",
+                "open_issues": 8,
                 "owner": "mementoweb",
                 "repo": "timegate",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             },
@@ -241,12 +327,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A plugin for Wordpress web sites to enable the Memento framework for time-based access",
+                "homepage": "http://pastpages.github.io/wordpress-memento-plugin/",
                 "id": 40097049,
                 "language": "Perl",
+                "license": "MIT",
                 "last_commit": "2017-08-04T21:16:28Z",
+                "open_issues": 12,
                 "owner": "palewire",
                 "repo": "wordpress-memento-plugin",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "archiving",
+                  "memento",
+                  "php",
+                  "wordpress"
+                ]
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             },
@@ -257,12 +353,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A set for helpers for Django web sites to enable the Memento framework for time-based access",
+                "homepage": "http://django-memento-framework.rtfd.org",
                 "id": 35352362,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-10-14T03:51:54Z",
+                "open_issues": 9,
                 "owner": "palewire",
                 "repo": "django-memento-framework",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "archiving",
+                  "django",
+                  "memento",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             },
@@ -273,12 +379,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Memento Aggregator is a Java service that federates web archives worldwide: given an Original-URL and optional datetime,   it discovers mementos and exposes standards-compliant Memento TimeGate and TimeMap APIs.",
+                "homepage": null,
                 "id": 1080584560,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-01-12T16:23:20Z",
+                "open_issues": 0,
                 "owner": "lanl",
                 "repo": "TimeStitch-Memento-Aggregator",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             },
@@ -289,12 +400,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Invenio module makes your site Memento compliant.",
+                "homepage": "https://invenio-memento.readthedocs.io",
                 "id": 59226839,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2019-08-01T15:52:55Z",
+                "open_issues": 5,
                 "owner": "inveniosoftware-attic",
                 "repo": "invenio-memento",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             },
@@ -310,12 +426,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Triple Pattern Fragments server for Node.js",
+                    "homepage": "http://linkeddatafragments.org/",
                     "id": 16891600,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T15:04:15Z",
+                    "open_issues": 56,
                     "owner": "LinkedDataFragments",
                     "repo": "Server.js",
-                    "stars": 181
+                    "stars": 181,
+                    "topics": [
+                      "rdf",
+                      "sparql",
+                      "triple-pattern-fragments"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:13:21.413Z"
                 }
@@ -335,12 +460,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Core Python Web Archiving Toolkit for replay and recording of web archives",
+                "homepage": "https://pypi.python.org/pypi/pywb",
                 "id": 15037172,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T07:49:35Z",
+                "open_issues": 184,
                 "owner": "webrecorder",
                 "repo": "pywb",
-                "stars": 1697
+                "stars": 1697,
+                "topics": [
+                  "python",
+                  "pywb",
+                  "wayback",
+                  "web-archives",
+                  "web-archiving"
+                ]
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             },
@@ -351,12 +487,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS",
+                "homepage": null,
                 "id": 53143022,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-24T13:33:40Z",
+                "open_issues": 160,
                 "owner": "oduwsdl",
                 "repo": "ipwb",
-                "stars": 655
+                "stars": 655,
+                "topics": [
+                  "docker",
+                  "ipfs",
+                  "memento",
+                  "memento-rfc",
+                  "python",
+                  "service-worker",
+                  "warc",
+                  "wayback",
+                  "web-archiving"
+                ]
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             },
@@ -367,12 +518,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The OpenWayback Development",
+                "homepage": "http://www.netpreserve.org/openwayback",
                 "id": 4007590,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-03T23:55:02Z",
+                "open_issues": 105,
                 "owner": "iipc",
                 "repo": "openwayback",
-                "stars": 526
+                "stars": 526,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             }
@@ -390,12 +546,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📬 A knowledge graph querying framework for JavaScript",
+                "homepage": "https://comunica.dev",
                 "id": 107345960,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T18:27:02Z",
+                "open_issues": 79,
                 "owner": "comunica",
                 "repo": "comunica",
-                "stars": 578
+                "stars": 578,
+                "topics": [
+                  "decentralization",
+                  "federation",
+                  "graphql",
+                  "hacktoberfest",
+                  "heterogeneity",
+                  "javascript",
+                  "mcp",
+                  "query-engine",
+                  "rdf",
+                  "sparql",
+                  "triple-pattern-fragments"
+                ]
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             },
@@ -406,12 +579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 422061593,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-10-28T20:13:24Z",
+                "open_issues": 1,
                 "owner": "lanl",
                 "repo": "memento-validator",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:21.413Z"
             }
@@ -425,15 +603,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:13:21.413Z",
+    "last_updated": "2026-08-29T04:57:09.926Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of things related to software, literature, and other content for 🕣 Memento",
+      "homepage": null,
       "id": 68344736,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-22T20:46:34Z",
+      "open_issues": 3,
       "owner": "machawk1",
       "repo": "awesome-memento",
-      "stars": 121
+      "stars": 121,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "memento",
+        "memento-rfc",
+        "webarchiving"
+      ]
     },
     "original_repository_sha": "f73c1157365fa7c1f0092bb3a20372c236ae7582",
     "enhanced_repository": "enhansome/enhansome-memento",
