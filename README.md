@@ -21,7 +21,7 @@ A list of things related to software, literature, and other content for Memento 
 
 ### Web Browser Extensions
 
-* Mink - Google Chrome Extension ([src](https://github.com/machawk1/mink) ⭐ 58 | 🐛 95 | 🌐 JavaScript | 📅 2025-08-27, [Web Store](https://chrome.google.com/webstore/detail/mink-integrate-live-archi/jemoalkmipibchioofomhkgimhofbbem))
+* Mink - Google Chrome Extension ([src](https://github.com/machawk1/mink) ⭐ 59 | 🐛 95 | 🌐 JavaScript | 📅 2025-08-27, [Web Store](https://chrome.google.com/webstore/detail/mink-integrate-live-archi/jemoalkmipibchioofomhkgimhofbbem))
 * Memento Time Travel - Google Chrome extension and Mozilla Firefox Add-On ([src](https://github.com/mementoweb/memento_chrome) ⭐ 13 | 🐛 2 | 🌐 JavaScript | 📅 2021-03-15, [Web Store](https://chrome.google.com/webstore/detail/memento/jgbfpjledahoajcppakbgilmojkaghgm), [Add-On Store](https://addons.mozilla.org/en-US/firefox/addon/memento-timetravel/))
 * MementoFox - Firefox Add-On ([src](https://code.google.com/archive/p/mementofox/), deprecated)
 
@@ -65,7 +65,7 @@ A list of things related to software, literature, and other content for Memento 
 
 ### Additional Tools
 
-* Comunica ([src](https://github.com/comunica/comunica) ⭐ 580 | 🐛 79 | 🌐 TypeScript | 📅 2026-09-03) - A knowledge graph querying framework for JavaScript with [Memento support](https://github.com/comunica/comunica/pull/195) ⭐ 580 | 🐛 79 | 🌐 TypeScript | 📅 2026-09-03.
+* Comunica ([src](https://github.com/comunica/comunica) ⭐ 580 | 🐛 80 | 🌐 TypeScript | 📅 2026-09-04) - A knowledge graph querying framework for JavaScript with [Memento support](https://github.com/comunica/comunica/pull/195) ⭐ 580 | 🐛 80 | 🌐 TypeScript | 📅 2026-09-04.
 * Memento Validator ([src](https://github.com/lanl/memento-validator) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2021-10-28) - Memento validator toolkit lets you validate your Memento implementation
 
 ## Literature
@@ -106,4 +106,4 @@ A list of things related to software, literature, and other content for Memento 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
