@@ -65,7 +65,7 @@ A list of things related to software, literature, and other content for Memento 
 
 ### Additional Tools
 
-* Comunica ([src](https://github.com/comunica/comunica) ⭐ 592 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-12) - A knowledge graph querying framework for JavaScript with [Memento support](https://github.com/comunica/comunica/pull/195) ⭐ 592 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-12.
+* Comunica ([src](https://github.com/comunica/comunica) ⭐ 592 | 🐛 75 | 🌐 TypeScript | 📅 2026-09-14) - A knowledge graph querying framework for JavaScript with [Memento support](https://github.com/comunica/comunica/pull/195) ⭐ 592 | 🐛 75 | 🌐 TypeScript | 📅 2026-09-14.
 * Memento Validator ([src](https://github.com/lanl/memento-validator) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2021-10-28) - Memento validator toolkit lets you validate your Memento implementation
 
 ## Literature
@@ -106,4 +106,4 @@ A list of things related to software, literature, and other content for Memento 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
