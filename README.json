@@ -289,7 +289,7 @@
                 "open_issues": 49,
                 "owner": "oduwsdl",
                 "repo": "MemGator",
-                "stars": 80,
+                "stars": 81,
                 "topics": [
                   "memento",
                   "memento-rfc",
@@ -466,10 +466,10 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-11T01:36:29Z",
-                "open_issues": 182,
+                "open_issues": 183,
                 "owner": "webrecorder",
                 "repo": "pywb",
-                "stars": 1701,
+                "stars": 1700,
                 "topics": [
                   "python",
                   "pywb",
@@ -496,7 +496,7 @@
                 "open_issues": 160,
                 "owner": "oduwsdl",
                 "repo": "ipwb",
-                "stars": 656,
+                "stars": 657,
                 "topics": [
                   "docker",
                   "ipfs",
@@ -603,7 +603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T15:13:16.496Z",
+    "last_updated": "2026-09-16T15:08:31.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of things related to software, literature, and other content for 🕣 Memento",
@@ -615,7 +615,7 @@
       "open_issues": 3,
       "owner": "machawk1",
       "repo": "awesome-memento",
-      "stars": 122,
+      "stars": 124,
       "topics": [
         "awesome",
         "awesome-list",

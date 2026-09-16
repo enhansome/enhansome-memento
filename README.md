@@ -42,7 +42,7 @@ A list of things related to software, literature, and other content for Memento 
 
 ### Server-side Enablers
 
-* MemGator ([src](https://github.com/oduwsdl/memgator) ⭐ 80 | 🐛 49 | 🌐 Go | 📅 2026-04-09) - Memento Aggregator written in Go.
+* MemGator ([src](https://github.com/oduwsdl/memgator) ⭐ 81 | 🐛 49 | 🌐 Go | 📅 2026-04-09) - Memento Aggregator written in Go.
 * TimeGate ([src](https://github.com/mementoweb/timegate) ⭐ 45 | 🐛 8 | 🌐 Python | 📅 2020-05-04) - Python and uWSGI script to intercept requests for resources to make them Memento-compatible.
 * wordpress-memento-plugin - ([src](https://github.com/pastpages/wordpress-memento-plugin) ⚠️ Archived) - Add Memento support to [WordPress](https://wordpress.com/) sites.
 * django-memento-framework ([src](https://github.com/pastpages/django-memento-framework) ⚠️ Archived) - Add Memento support to [Django](https://www.djangoproject.com/) applications.
@@ -59,8 +59,8 @@ A list of things related to software, literature, and other content for Memento 
 
 ### Web Archive Replay
 
-* pywb ([src](https://github.com/webrecorder/pywb) ⭐ 1,701 | 🐛 182 | 🌐 JavaScript | 📅 2026-09-11) - Python-based replay engine.
-* InterPlanetary Wayback (ipwb) ([src](https://github.com/oduwsdl/ipwb) ⭐ 656 | 🐛 160 | 🌐 Python | 📅 2026-07-24) - Integration of WARCs with IPFS, supports Memento in bundled replay system.
+* pywb ([src](https://github.com/webrecorder/pywb) ⭐ 1,700 | 🐛 183 | 🌐 JavaScript | 📅 2026-09-11) - Python-based replay engine.
+* InterPlanetary Wayback (ipwb) ([src](https://github.com/oduwsdl/ipwb) ⭐ 657 | 🐛 160 | 🌐 Python | 📅 2026-07-24) - Integration of WARCs with IPFS, supports Memento in bundled replay system.
 * OpenWayback ([src](https://github.com/iipc/openwayback) ⭐ 528 | 🐛 105 | 🌐 Java | 📅 2024-01-03) - De facto web archive replay engine with the ability to provide Memento headers to archived resources. Written in Java.
 
 ### Additional Tools
@@ -106,4 +106,4 @@ A list of things related to software, literature, and other content for Memento 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
