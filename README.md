@@ -59,13 +59,13 @@ A list of things related to software, literature, and other content for Memento 
 
 ### Web Archive Replay
 
-* pywb ([src](https://github.com/webrecorder/pywb) ⭐ 1,700 | 🐛 183 | 🌐 JavaScript | 📅 2026-09-11) - Python-based replay engine.
+* pywb ([src](https://github.com/webrecorder/pywb) ⭐ 1,700 | 🐛 184 | 🌐 JavaScript | 📅 2026-09-11) - Python-based replay engine.
 * InterPlanetary Wayback (ipwb) ([src](https://github.com/oduwsdl/ipwb) ⭐ 657 | 🐛 160 | 🌐 Python | 📅 2026-07-24) - Integration of WARCs with IPFS, supports Memento in bundled replay system.
 * OpenWayback ([src](https://github.com/iipc/openwayback) ⭐ 529 | 🐛 105 | 🌐 Java | 📅 2024-01-03) - De facto web archive replay engine with the ability to provide Memento headers to archived resources. Written in Java.
 
 ### Additional Tools
 
-* Comunica ([src](https://github.com/comunica/comunica) ⭐ 602 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-17) - A knowledge graph querying framework for JavaScript with [Memento support](https://github.com/comunica/comunica/pull/195) ⭐ 602 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-17.
+* Comunica ([src](https://github.com/comunica/comunica) ⭐ 602 | 🐛 78 | 🌐 TypeScript | 📅 2026-09-18) - A knowledge graph querying framework for JavaScript with [Memento support](https://github.com/comunica/comunica/pull/195) ⭐ 602 | 🐛 78 | 🌐 TypeScript | 📅 2026-09-18.
 * Memento Validator ([src](https://github.com/lanl/memento-validator) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2021-10-28) - Memento validator toolkit lets you validate your Memento implementation
 
 ## Literature
@@ -106,4 +106,4 @@ A list of things related to software, literature, and other content for Memento 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

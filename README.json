@@ -466,7 +466,7 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-11T01:36:29Z",
-                "open_issues": 183,
+                "open_issues": 184,
                 "owner": "webrecorder",
                 "repo": "pywb",
                 "stars": 1700,
@@ -551,8 +551,8 @@
                 "id": 107345960,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T14:01:30Z",
-                "open_issues": 77,
+                "last_commit": "2026-09-18T13:04:04Z",
+                "open_issues": 78,
                 "owner": "comunica",
                 "repo": "comunica",
                 "stars": 602,
@@ -603,7 +603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:16:09.389Z",
+    "last_updated": "2026-09-18T14:37:01.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of things related to software, literature, and other content for 🕣 Memento",
