@@ -555,7 +555,7 @@
                 "open_issues": 79,
                 "owner": "comunica",
                 "repo": "comunica",
-                "stars": 610,
+                "stars": 611,
                 "topics": [
                   "decentralization",
                   "federation",
@@ -603,7 +603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T15:08:35.734Z",
+    "last_updated": "2026-09-23T15:10:00.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of things related to software, literature, and other content for 🕣 Memento",
