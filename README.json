@@ -463,10 +463,10 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-28T10:39:01Z",
-                "open_issues": 191,
+                "open_issues": 192,
                 "owner": "webrecorder",
                 "repo": "pywb",
-                "stars": 1704,
+                "stars": 1705,
                 "topics": [
                   "python",
                   "pywb",
@@ -493,7 +493,7 @@
                 "open_issues": 160,
                 "owner": "oduwsdl",
                 "repo": "ipwb",
-                "stars": 657,
+                "stars": 656,
                 "topics": [
                   "docker",
                   "ipfs",
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:36:38.434Z",
+    "last_updated": "2026-09-30T16:29:16.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of things related to software, literature, and other content for 🕣 Memento",
