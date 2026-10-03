@@ -462,8 +462,8 @@
                 "id": 15037172,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T13:01:27Z",
-                "open_issues": 192,
+                "last_commit": "2026-10-03T10:18:59Z",
+                "open_issues": 195,
                 "owner": "webrecorder",
                 "repo": "pywb",
                 "stars": 1706,
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:56:27.043Z",
+    "last_updated": "2026-10-03T14:49:54.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of things related to software, literature, and other content for 🕣 Memento",
