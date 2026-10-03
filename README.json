@@ -63,7 +63,7 @@
             {
               "node_type": "item",
               "title": "Memento-Browser - View web archives in the time dimension on Android (src",
-              "description": ")",
+              "description": "machawk1/mementobrowser-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -84,7 +84,7 @@
             {
               "node_type": "item",
               "title": "MementoBrowser-ios - View web archives in the time dimension on iOS (src",
-              "description": ")",
+              "description": "machawk1/mementobrowser-ios",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -105,7 +105,7 @@
             {
               "node_type": "item",
               "title": "Mobile Mink - View and create archived versions of mobile and desktop pages on Android (src",
-              "description": ")",
+              "description": "oduwsdl/MobileMink",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -549,7 +549,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-28T14:13:40Z",
-                "open_issues": 81,
+                "open_issues": 82,
                 "owner": "comunica",
                 "repo": "comunica",
                 "stars": 611,
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:20:54.195Z",
+    "last_updated": "2026-10-03T04:56:27.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of things related to software, literature, and other content for 🕣 Memento",
