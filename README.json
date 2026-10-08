@@ -286,7 +286,7 @@
                 "open_issues": 50,
                 "owner": "oduwsdl",
                 "repo": "MemGator",
-                "stars": 82,
+                "stars": 83,
                 "topics": [
                   "memento",
                   "memento-rfc",
@@ -428,7 +428,7 @@
                     "id": 16891600,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-05T17:28:37Z",
+                    "last_commit": "2026-10-08T14:07:19Z",
                     "open_issues": 60,
                     "owner": "LinkedDataFragments",
                     "repo": "Server.js",
@@ -462,11 +462,11 @@
                 "id": 15037172,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T10:18:59Z",
-                "open_issues": 196,
+                "last_commit": "2026-10-08T15:32:22Z",
+                "open_issues": 197,
                 "owner": "webrecorder",
                 "repo": "pywb",
-                "stars": 1706,
+                "stars": 1708,
                 "topics": [
                   "python",
                   "pywb",
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:31:15.157Z",
+    "last_updated": "2026-10-08T17:33:25.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of things related to software, literature, and other content for 🕣 Memento",
