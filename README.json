@@ -428,7 +428,7 @@
                     "id": 16891600,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-11T14:00:34Z",
+                    "last_commit": "2026-10-12T10:11:18Z",
                     "open_issues": 60,
                     "owner": "LinkedDataFragments",
                     "repo": "Server.js",
@@ -548,11 +548,11 @@
                 "id": 107345960,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-11T15:16:34Z",
-                "open_issues": 80,
+                "last_commit": "2026-10-12T17:36:50Z",
+                "open_issues": 82,
                 "owner": "comunica",
                 "repo": "comunica",
-                "stars": 614,
+                "stars": 615,
                 "topics": [
                   "decentralization",
                   "federation",
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T16:24:17.190Z",
+    "last_updated": "2026-10-12T19:58:19.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of things related to software, literature, and other content for 🕣 Memento",
