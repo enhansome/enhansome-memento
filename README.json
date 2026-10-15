@@ -493,7 +493,7 @@
                 "open_issues": 160,
                 "owner": "oduwsdl",
                 "repo": "ipwb",
-                "stars": 657,
+                "stars": 658,
                 "topics": [
                   "docker",
                   "ipfs",
@@ -548,7 +548,7 @@
                 "id": 107345960,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T11:31:19Z",
+                "last_commit": "2026-10-15T07:54:11Z",
                 "open_issues": 73,
                 "owner": "comunica",
                 "repo": "comunica",
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:23:26.628Z",
+    "last_updated": "2026-10-15T15:18:00.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of things related to software, literature, and other content for 🕣 Memento",
