@@ -463,7 +463,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-17T06:19:53Z",
-                "open_issues": 187,
+                "open_issues": 188,
                 "owner": "webrecorder",
                 "repo": "pywb",
                 "stars": 1708,
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:52:46.519Z",
+    "last_updated": "2026-10-18T14:07:12.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of things related to software, literature, and other content for 🕣 Memento",
