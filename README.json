@@ -462,11 +462,11 @@
                 "id": 15037172,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T08:45:34Z",
-                "open_issues": 188,
+                "last_commit": "2026-10-26T06:36:33Z",
+                "open_issues": 189,
                 "owner": "webrecorder",
                 "repo": "pywb",
-                "stars": 1711,
+                "stars": 1712,
                 "topics": [
                   "python",
                   "pywb",
@@ -493,7 +493,7 @@
                 "open_issues": 160,
                 "owner": "oduwsdl",
                 "repo": "ipwb",
-                "stars": 659,
+                "stars": 658,
                 "topics": [
                   "docker",
                   "ipfs",
@@ -548,11 +548,11 @@
                 "id": 107345960,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-25T07:25:07Z",
-                "open_issues": 66,
+                "last_commit": "2026-10-26T15:44:51Z",
+                "open_issues": 63,
                 "owner": "comunica",
                 "repo": "comunica",
-                "stars": 617,
+                "stars": 618,
                 "topics": [
                   "decentralization",
                   "federation",
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T14:32:01.629Z",
+    "last_updated": "2026-10-26T16:54:59.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of things related to software, literature, and other content for 🕣 Memento",
