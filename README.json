@@ -548,11 +548,11 @@
                 "id": 107345960,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T13:04:21Z",
-                "open_issues": 64,
+                "last_commit": "2026-10-28T02:46:12Z",
+                "open_issues": 65,
                 "owner": "comunica",
                 "repo": "comunica",
-                "stars": 618,
+                "stars": 619,
                 "topics": [
                   "decentralization",
                   "federation",
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:58:46.045Z",
+    "last_updated": "2026-10-28T16:47:44.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of things related to software, literature, and other content for 🕣 Memento",
