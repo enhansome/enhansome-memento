@@ -428,7 +428,7 @@
                     "id": 16891600,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-26T23:56:34Z",
+                    "last_commit": "2026-10-28T20:34:32Z",
                     "open_issues": 60,
                     "owner": "LinkedDataFragments",
                     "repo": "Server.js",
@@ -462,11 +462,11 @@
                 "id": 15037172,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-27T14:11:48Z",
-                "open_issues": 189,
+                "last_commit": "2026-10-29T15:04:56Z",
+                "open_issues": 188,
                 "owner": "webrecorder",
                 "repo": "pywb",
-                "stars": 1714,
+                "stars": 1715,
                 "topics": [
                   "python",
                   "pywb",
@@ -548,11 +548,11 @@
                 "id": 107345960,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T02:46:12Z",
-                "open_issues": 65,
+                "last_commit": "2026-10-29T14:32:53Z",
+                "open_issues": 66,
                 "owner": "comunica",
                 "repo": "comunica",
-                "stars": 619,
+                "stars": 620,
                 "topics": [
                   "decentralization",
                   "federation",
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:47:44.725Z",
+    "last_updated": "2026-10-29T17:03:02.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of things related to software, literature, and other content for 🕣 Memento",
