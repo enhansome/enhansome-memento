@@ -27,7 +27,7 @@ A list of things related to software, literature, and other content for Memento 
 
 ### Mobile Apps
 
-* MementoBrowser-ios - View web archives in the time dimension on iOS ([src](https://github.com/machawk1/mementobrowser-ios) ⭐ 2 | 🐛 0 | 🌐 Objective-C | 📅 2014-08-06)
+* MementoBrowser-ios - View web archives in the time dimension on iOS ([src](https://github.com/machawk1/mementobrowser-ios) ⭐ 3 | 🐛 0 | 🌐 Objective-C | 📅 2014-08-06)
 * Memento-Browser - View web archives in the time dimension on Android ([src](https://github.com/machawk1/mementobrowser-android) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2014-08-06)
 * Mobile Mink - View and create archived versions of mobile and desktop pages on Android ([src](https://github.com/oduwsdl/mobilemink) ⭐ 1 | 🐛 16 | 🌐 Java | 📅 2023-09-14)
 
@@ -59,13 +59,13 @@ A list of things related to software, literature, and other content for Memento 
 
 ### Web Archive Replay
 
-* pywb ([src](https://github.com/webrecorder/pywb) ⭐ 1,716 | 🐛 188 | 🌐 Python | 📅 2026-11-02) - Python-based replay engine.
+* pywb ([src](https://github.com/webrecorder/pywb) ⭐ 1,716 | 🐛 188 | 🌐 Python | 📅 2026-11-04) - Python-based replay engine.
 * InterPlanetary Wayback (ipwb) ([src](https://github.com/oduwsdl/ipwb) ⭐ 658 | 🐛 160 | 🌐 Python | 📅 2026-07-24) - Integration of WARCs with IPFS, supports Memento in bundled replay system.
 * OpenWayback ([src](https://github.com/iipc/openwayback) ⭐ 530 | 🐛 105 | 🌐 Java | 📅 2024-01-03) - De facto web archive replay engine with the ability to provide Memento headers to archived resources. Written in Java.
 
 ### Additional Tools
 
-* Comunica ([src](https://github.com/comunica/comunica) ⭐ 620 | 🐛 86 | 🌐 TypeScript | 📅 2026-11-03) - A knowledge graph querying framework for JavaScript with [Memento support](https://github.com/comunica/comunica/pull/195) ⭐ 620 | 🐛 86 | 🌐 TypeScript | 📅 2026-11-03.
+* Comunica ([src](https://github.com/comunica/comunica) ⭐ 620 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-04) - A knowledge graph querying framework for JavaScript with [Memento support](https://github.com/comunica/comunica/pull/195) ⭐ 620 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-04.
 * Memento Validator ([src](https://github.com/lanl/memento-validator) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2021-10-28) - Memento validator toolkit lets you validate your Memento implementation
 
 ## Literature
@@ -106,4 +106,4 @@ A list of things related to software, literature, and other content for Memento 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
