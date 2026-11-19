@@ -462,11 +462,11 @@
                 "id": 15037172,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-17T01:23:09Z",
-                "open_issues": 185,
+                "last_commit": "2026-11-19T13:43:13Z",
+                "open_issues": 183,
                 "owner": "webrecorder",
                 "repo": "pywb",
-                "stars": 1720,
+                "stars": 1718,
                 "topics": [
                   "python",
                   "pywb",
@@ -552,7 +552,7 @@
                 "open_issues": 111,
                 "owner": "comunica",
                 "repo": "comunica",
-                "stars": 625,
+                "stars": 626,
                 "topics": [
                   "decentralization",
                   "federation",
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T18:59:30.463Z",
+    "last_updated": "2026-11-19T19:07:29.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of things related to software, literature, and other content for 🕣 Memento",
