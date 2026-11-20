@@ -428,7 +428,7 @@
                     "id": 16891600,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-16T22:17:28Z",
+                    "last_commit": "2026-11-20T18:10:26Z",
                     "open_issues": 60,
                     "owner": "LinkedDataFragments",
                     "repo": "Server.js",
@@ -493,7 +493,7 @@
                 "open_issues": 160,
                 "owner": "oduwsdl",
                 "repo": "ipwb",
-                "stars": 660,
+                "stars": 659,
                 "topics": [
                   "docker",
                   "ipfs",
@@ -549,10 +549,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-18T16:07:47Z",
-                "open_issues": 111,
+                "open_issues": 110,
                 "owner": "comunica",
                 "repo": "comunica",
-                "stars": 626,
+                "stars": 625,
                 "topics": [
                   "decentralization",
                   "federation",
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T19:07:29.454Z",
+    "last_updated": "2026-11-20T18:45:14.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of things related to software, literature, and other content for 🕣 Memento",
@@ -612,7 +612,7 @@
       "open_issues": 3,
       "owner": "machawk1",
       "repo": "awesome-memento",
-      "stars": 126,
+      "stars": 127,
       "topics": [
         "awesome",
         "awesome-list",
